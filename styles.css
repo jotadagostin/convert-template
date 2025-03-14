@@ -143,6 +143,9 @@ footer {
 
 .show-result {
   display: block;
+  /* use this class only in the JS code
+  footer.addclass
+  */
 }
 
 footer span {
